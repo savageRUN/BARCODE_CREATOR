@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\BARCODE_CREATOR.exe.config
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\BARCODE_CREATOR.exe
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\BARCODE_CREATOR.pdb
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\zxing.dll
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\zxing.presentation.dll
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\zxing.xml
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\bin\Debug\zxing.presentation.xml
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.Form1.resources
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.Properties.Resources.resources
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.csproj.CopyComplete
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.exe
+C:\Users\user\source\repos\BARCODE_CREATOR\BARCODE_CREATOR\obj\Debug\BARCODE_CREATOR.pdb
